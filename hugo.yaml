@@ -464,24 +464,48 @@ params:
   services:
     enable: true
     items:
-    - service: DevOps
+    - service: CTOccasional
+      title: Fractional CTO
+      content: |
+        Imagine having a tech wizard by your side, but only when you need one.
+        That's me as your Fractional CTO. I'll jump in to steer your tech ship part-time, aligning your tech strategy with your business goals.
+        From choosing the right tech stack to keeping your digital fortress secure, I'm here to light the way and lead your tech journey.
+        - Let's chart the course to success, together!
+    - service: DevOptimize
       title: DevOps Consulting
       content: |
-        This service involves advising organizations on implementing DevOps methodologies and practices.
-        You'll focus on integrating development and operations through continuous integration/continuous deployment (CI/CD) pipelines, automation, monitoring, and cloud-native solutions.
-        This may include implementing tools like Jenkins, Docker, Kubernetes, and Terraform, and optimizing workflows for better scalability, reliability, and faster deployment cycles.
-    - service: DevOps2
-      title: DevOps Consulting
+        Ready to make your software development smoother and more efficient? That's where my DevOps Consulting comes in.
+        I'll be your guide in integrating development and operations, using cool tools like Jenkins and Docker, and automating the heck out of your processes.
+        Think of it as giving your team superpowers to build, test, and release software quickly and reliably.
+        - Let's make magic happen together!
+    - service: SkyPilot
+      title: Cloud Apps & SaaS Consulting
       content: |
-        This service involves advising organizations on implementing DevOps methodologies and practices.
-        You'll focus on integrating development and operations through continuous integration/continuous deployment (CI/CD) pipelines, automation, monitoring, and cloud-native solutions.
-        This may include implementing tools like Jenkins, Docker, Kubernetes, and Terraform, and optimizing workflows for better scalability, reliability, and faster deployment cycles.
-    - service: DevOps3
-      title: DevOps Consulting
+        The cloud is vast and full of wonders, and I'm here to help you navigate it!
+        As your Cloud Applications and SaaS Consultant, I'll guide you through choosing and using the best cloud solutions for your needs.
+        Whether it's AWS, Azure, or GCP, I'll make sure you're getting the most out of your cloud investments.
+        - Let's soar through the clouds and achieve new heights together!
+    - service: SoftwareSculptor
+      title: General Software Consulting and Implementation
       content: |
-        This service involves advising organizations on implementing DevOps methodologies and practices.
-        You'll focus on integrating development and operations through continuous integration/continuous deployment (CI/CD) pipelines, automation, monitoring, and cloud-native solutions.
-        This may include implementing tools like Jenkins, Docker, Kubernetes, and Terraform, and optimizing workflows for better scalability, reliability, and faster deployment cycles.
+        Software can be tricky, but fear not - I'm here to help! As your go-to for General Software Consulting and Implementation, I'll dive deep into your software needs, from the big picture down to the nitty-gritty details.
+        We'll select the perfect tech stack, streamline your development process, and implement software that not only works great but also drives your business forward.
+        - Let's turn your software dreams into reality, together!
+    - service: DreamTeamer
+      title: Tech Team Forming and Hiring
+      content: |
+        Building a dream tech team? Let me lend a hand! 
+        With my expertise in Tech Team Forming and Hiring, I'll help you identify the tech stars you need, craft the perfect job roles, and set up a team that's ready to conquer any challenge.
+        Think of me as your tech talent scout and coach, all rolled into one.
+        - Let's build a team that's not just skilled but also a perfect fit for your vision, together!
+    - service: AgileAce
+      title: Agile Transformation and Project Management
+      content: |
+        As your Agile Project Management and Agile Transformation guide, I'm here to do just that.
+        Think of me as your agility coach, helping you adopt a flexible, collaborative, and super-efficient approach to managing projects.
+        We'll embrace the Agile mindset together, transforming the way your team works to boost productivity, adaptability, and, most importantly, happiness in the workplace.
+        Say goodbye to the old, rigid ways and hello to a dynamic, results-driven future.
+        - Let's embark on this Agile journey and sprint towards success, together!
 
   #Contact
   contact:

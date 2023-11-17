@@ -137,6 +137,7 @@ params:
       disableProjects: false
       disableAchievements: false
       disableContact: false
+      disableServices: false
 
   # Hero
   hero:
@@ -458,6 +459,29 @@ params:
         - "Agile"
         - "DevOps"
 
+
+  #Services
+  services:
+    enable: true
+    items:
+    - service: DevOps
+      title: DevOps Consulting
+      content: |
+        This service involves advising organizations on implementing DevOps methodologies and practices.
+        You'll focus on integrating development and operations through continuous integration/continuous deployment (CI/CD) pipelines, automation, monitoring, and cloud-native solutions.
+        This may include implementing tools like Jenkins, Docker, Kubernetes, and Terraform, and optimizing workflows for better scalability, reliability, and faster deployment cycles.
+    - service: DevOps2
+      title: DevOps Consulting
+      content: |
+        This service involves advising organizations on implementing DevOps methodologies and practices.
+        You'll focus on integrating development and operations through continuous integration/continuous deployment (CI/CD) pipelines, automation, monitoring, and cloud-native solutions.
+        This may include implementing tools like Jenkins, Docker, Kubernetes, and Terraform, and optimizing workflows for better scalability, reliability, and faster deployment cycles.
+    - service: DevOps3
+      title: DevOps Consulting
+      content: |
+        This service involves advising organizations on implementing DevOps methodologies and practices.
+        You'll focus on integrating development and operations through continuous integration/continuous deployment (CI/CD) pipelines, automation, monitoring, and cloud-native solutions.
+        This may include implementing tools like Jenkins, Docker, Kubernetes, and Terraform, and optimizing workflows for better scalability, reliability, and faster deployment cycles.
 
   #Contact
   contact:

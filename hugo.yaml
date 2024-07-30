@@ -142,7 +142,7 @@ params:
       disableProjects: false
       disableAchievements: false
       disableContact: false
-      disableServices: false
+      disableServices: true
 
   # Hero
   hero:
@@ -474,7 +474,7 @@ params:
 
   #Services
   services:
-    enable: true
+    enable: false
     items:
     - service: CTOccasional
       title: Fractional CTO

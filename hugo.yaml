@@ -179,7 +179,7 @@ params:
     title: "About Me"
     image: "/images/me2.jpeg"
     content: |-
-      With a 10-year track record in software engineering and leadership, I blend deep technical expertise in DevOps and cloud-native technologies with adept team management. My career has been dedicated to architecting and implementing complex software solutions, managing distributed teams across multiple time zones with a focus on efficiency and strategic alignment.
+      With a 11+ year track record in software engineering and leadership, I blend deep technical expertise in DevOps and cloud-native technologies with adept team management. My career has been dedicated to architecting and implementing complex software solutions, managing distributed teams across multiple time zones with a focus on efficiency and strategic alignment.
 
       In my role, I balance hands-on technical work with leading cross-functional teams, nurturing a culture of innovation and continuous improvement. My approach is to drive projects to fruition within budget and schedule constraints, while aligning closely with organizational strategic goals.
 
@@ -199,7 +199,7 @@ params:
     # title: "Custom Name"
     items:
     - company: "Mytigate"
-      date: "Sep 2020 - present"
+      date: "Sep 2020 - Apr 2024"
       companyUrl: "https://mytigate.com"
       featuredLink:
         enable: false
@@ -207,7 +207,7 @@ params:
         url: "https://mytigate.com"
       jobs:
       - title: "CTO"
-        date: "May 2021 - present"
+        date: "May 2021 - Apr 2024"
         info:
           enable: false
           content: part-time

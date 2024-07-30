@@ -341,8 +341,8 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-    - title: Monitoring (Ongoing)
-      content: Helping Cyntegrity GmbH create a robust monitoring strategy for their infrastructure.
+    - title: Monitoring
+      content: Helped Cyntegrity GmbH create a robust monitoring strategy for their infrastructure.
       image: /images/projects/monitoring.png
       featured:
         name: Cyntegrity

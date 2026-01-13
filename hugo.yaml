@@ -42,7 +42,7 @@ Menus:
     - identifier: dropdown1
       title: Resume
       name: Resume
-      url: "/BishoyYoussef-CV.pdf"
+      url: "/bishoyyoussef-cv-2.pdf"
       parent: dropdown
       weight: 1
     - identifier: dropdown2
